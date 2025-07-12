@@ -55,7 +55,7 @@
 
 ## 📫 Let's Connect
 
-- 💌 Email: nikhilmahato645@gmail.com  
+- 💌 Email: nikhilmahato104@gmail.com  
 - 🔗 LinkedIn: [nikhilmahato104](https://linkedin.com/in/nikhilmahato104)  
 - 🌐 Portfolio: [nikhil.freelancerpro.in](https://nikhil.freelancerpro.in)  
 - 📱 GitHub: [github.com/nikhilmahato104](https://github.com/nikhilmahato104)
