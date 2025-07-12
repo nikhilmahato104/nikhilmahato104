@@ -1,11 +1,10 @@
-## Hi there 👋
 # 👋 Hi, I'm Nikhil Mahato
 
-🎓 A passionate Full Stack Developer & B.Tech student at LPU  
-💼 Founder of [FreelancerPro.in](https://freelancerpro.in)  
-🌐 Working with clients on websites & mobile apps  
-💡 Interned at Infosys and Gokboru Tech  
-📍 Based in Punjab, India
+🎓 B.Tech CSE student at Lovely Professional University (LPU)  
+💼 Founder of [FreelancerPro.in](https://nikhil.freelancerpro.in) – delivering full-stack client projects  
+🧠 MERN Stack Developer | React Native (iOS/Android) | Backend Engineer  
+💡 Former Intern at Infosys & Gokboru Tech | NPTEL Certified in Cloud Computing  
+📍 Based in Dhanbad, Jharkhand | Currently in Punjab, India
 
 ---
 
@@ -13,53 +12,45 @@
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
-## 🌟 Projects I'm Proud Of
+## 🌟 Featured Projects
 
-- 🔥 **[NikHotel](https://github.com/nikhilmahato104/NikHotel)** — Hotel & Food Booking System (MERN)
-- 🧭 **[Wanderlust](https://github.com/nikhilmahato104/Wanderlust)** — Hotel booking project with modern UI
-- ✈️ **Aviatours** — Travel booking website for Australian clients
-- 🧠 **Health Checker** — Health assessment system (Infosys Internship)
-- 🕹️ **Simon Says Game** — Memory color game using JS & CSS
+- 🔥 **[NikHotel](https://github.com/nikhilmahato104/NikHotel)** – MERN stack hotel & food booking site with email/push notification
+- ✈️ **[Aviatours Australia](https://github.com/nikhilmahato104/Aviatours)** – Tour booking website (client project) with admin/user panel
+- 🧭 **[Wanderlust](https://github.com/nikhilmahato104/Wanderlust)** – Hotel booking with secure auth & modern UX
+- 🧠 **[Health Checker](https://github.com/nikhilmahato104/HealthChecker)** – Health assessment site (Infosys internship)
+- 🕹️ **[Simon Says Game](https://github.com/nikhilmahato104/Simon_says_algorithm)** – Classic memory game using JS
+- 📦 **[E-commerce Site (MERN)](https://github.com/nikhilmahato104/MERN-Ecommerce)** – Admin/user login, OTP auth, cart, points system
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmahato104&show_icons=true&theme=tokyonight)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmahato104&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmahato104&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-- 📧 Email: nikhilmahato645@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/nikhilmahato104)  
-- 💼 [Portfolio](https://nikhil.freelancerpro.in)
+- 💌 Email: nikhilmahato645@gmail.com  
+- 🔗 LinkedIn: [nikhilmahato104](https://linkedin.com/in/nikhilmahato104)  
+- 🌐 Portfolio: [nikhil.freelancerpro.in](https://nikhil.freelancerpro.in)  
+- 📱 GitHub: [github.com/nikhilmahato104](https://github.com/nikhilmahato104)
 
 ---
 
-⭐️ *Thanks for visiting my GitHub profile!*
+⭐ *Thanks for stopping by! I love building production-grade web and mobile applications. Feel free to collaborate or reach out.*
 
-<!--
-**nikhilmahato104/nikhilmahato104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
