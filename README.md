@@ -25,20 +25,30 @@
 
 ---
 
+## 🌐 Live Projects
+
+- ✈️ [Aviatours Australia](https://www.aviatours.com.au) – Tour booking platform with admin/user panels  
+- 🛒 [Flipzonto](https://flipzonto.com) – Custom eCommerce store with product management  
+- 📚 [Rahul Classroom](https://rahulclassroom.in) – Education portal with teacher-student access and content control  
+- 💼 [FreelancerPro](https://freelancerpro.in) – My portfolio & client service platform  
+- 📰 [Daily Affairs](https://dailyaffairs.in) – News and current affairs platform for readers and aspirants
+
+---
+
 ## 🌟 Featured Projects
 
-- 🔥 **[NikHotel](https://github.com/nikhilmahato104/NikHotel)** – MERN stack hotel & food booking site with email/push notification
-- ✈️ **[Aviatours Australia](https://github.com/nikhilmahato104/Aviatours)** – Tour booking website (client project) with admin/user panel
-- 🧭 **[Wanderlust](https://github.com/nikhilmahato104/Wanderlust)** – Hotel booking with secure auth & modern UX
-- 🧠 **[Health Checker](https://github.com/nikhilmahato104/HealthChecker)** – Health assessment site (Infosys internship)
-- 🕹️ **[Simon Says Game](https://github.com/nikhilmahato104/Simon_says_algorithm)** – Classic memory game using JS
-- 📦 **[E-commerce Site (MERN)](https://github.com/nikhilmahato104/MERN-Ecommerce)** – Admin/user login, OTP auth, cart, points system
+- 🔥 **[NikHotel](https://github.com/nikhilmahato104/NikHotel)** – MERN stack hotel & food booking site with email/push notification  
+- ✈️ **[Aviatours Australia (GitHub)](https://github.com/nikhilmahato104/Aviatours)** – Tour booking website (client project) with admin/user panel  
+- 🧭 **[Wanderlust](https://github.com/nikhilmahato104/Wanderlust)** – Hotel booking with secure auth & modern UX  
+- 🧠 **[Health Checker](https://github.com/nikhilmahato104/HealthChecker)** – Health assessment site (Infosys internship)  
+- 🕹️ **[Simon Says Game](https://github.com/nikhilmahato104/Simon_says_algorithm)** – Classic memory game using JS  
+- 📦 **[E-commerce Site (MERN)](https://github.com/nikhilmahato104/MERN-Ecommerce)** – Admin/user login, OTP auth, cart, points system  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmahato104&show_icons=true&theme=tokyonight&count_private=true)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmahato104&show_icons=true&theme=tokyonight&count_private=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmahato104&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -53,4 +63,3 @@
 ---
 
 ⭐ *Thanks for stopping by! I love building production-grade web and mobile applications. Feel free to collaborate or reach out.*
-
